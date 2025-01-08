@@ -28,8 +28,8 @@ def save_results_to_file(file_path, markdown_content):
 def scrape_from_xpaths_and_filter():
     # Set up Selenium WebDriver
     options = webdriver.ChromeOptions()
-    #options.add_argument('--headless')  # Run in headless mode
-    #options.add_argument('--disable-gpu')
+    options.add_argument('--headless')  # Run in headless mode
+    options.add_argument('--disable-gpu')
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
 
     # Target page URL
