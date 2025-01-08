@@ -39,6 +39,10 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Use the secret for authentication
         run: |
+          # Configure Git author details
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+
           git add .
           git commit -m "Add daily scraped links"
-          git push https://github.com/${{ github.repository }} HEAD:main  # Push to gh-pages or main, as necessary
+          git push https://github.com/${{ github.repository }} HEAD:main
