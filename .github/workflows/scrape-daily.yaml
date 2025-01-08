@@ -37,7 +37,7 @@ jobs:
       # Commit and Push changes
       - name: Commit and Push changes
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Use the secret for authentication
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Use the secret for authentication
         run: |
           # Configure Git author details
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
