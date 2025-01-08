@@ -34,10 +34,11 @@ jobs:
         run: |
           python scrape_links.py
 
+      # Commit and Push changes
       - name: Commit and Push changes
-      env:
-        GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Use the secret for authentication
-      run: |
-        git add .
-        git commit -m "Add daily scraped links"
-        git push https://github.com/${{ github.repository }} HEAD:main  # Push to gh-pages or main, as necessary
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Use the secret for authentication
+        run: |
+          git add .
+          git commit -m "Add daily scraped links"
+          git push https://github.com/${{ github.repository }} HEAD:main  # Push to gh-pages or main, as necessary
