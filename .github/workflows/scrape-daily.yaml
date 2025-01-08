@@ -32,7 +32,7 @@ jobs:
       # Run the scraping script
       - name: Run the scraping script
         run: |
-          python scrape_links.py
+          python readurl.py
 
       # Commit and push the updated file with the scraped data
       - name: Commit and push changes
