@@ -6,6 +6,24 @@ from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
 
 import time
+import os
+from datetime import datetime
+
+def generate_markdown(results, date_header):
+    markdown = f"## {date_header}\n\n"  # Add the date header
+    for text, href, link_to_tag in results:
+        markdown += f"- [{text}]({href})\n"  # Format each result as a list item
+    markdown += "\n"  # Add an empty line at the end
+    return markdown
+
+def save_results_to_file(file_path, markdown_content):
+    # Check if the file exists; if it does, append, otherwise create a new file
+    if os.path.exists(file_path):
+        with open(file_path, 'a') as file:
+            file.write(markdown_content)
+    else:
+        with open(file_path, 'w') as file:
+            file.write(markdown_content)
 
 def scrape_from_xpaths_and_filter():
     # Set up Selenium WebDriver
@@ -27,6 +45,7 @@ def scrape_from_xpaths_and_filter():
     WebDriverWait(driver, 10).until(
         EC.presence_of_element_located((By.XPATH, xpaths[1]))
     )
+
     # Find the "closest to top" <a> tag for each XPath
     top_links = []
     for xpath in xpaths:
@@ -49,10 +68,10 @@ def scrape_from_xpaths_and_filter():
         try:
             driver.get(link)  # Visit the page
             time.sleep(5.0)
-            
+
             # Now retrieve all <a> tags
             a_tags = driver.find_elements(By.TAG_NAME, 'a')
-            
+
             # Check if the text matches any word in the filter array
             for a_tag in a_tags:
                 text = a_tag.text.strip() if a_tag.text else ""  # Get the text of the <a> tag
@@ -70,8 +89,22 @@ def scrape_from_xpaths_and_filter():
     driver.quit()  # Close the browser
     return results
 
+def main():
+    # Get today's date for the header
+    today_date = datetime.today().strftime('%Y-%m-%d')
+
+    # Scrape the links
+    scraped_results = scrape_from_xpaths_and_filter()
+
+    # Generate Markdown content with today's date as the header
+    markdown_content = generate_markdown(scraped_results, today_date)
+
+    # Define the file path where the results will be saved
+    file_path = "scraped_links.md"
+
+    # Save the results to the file
+    save_results_to_file(file_path, markdown_content)
+    print(f"Results for {today_date} have been saved to {file_path}.")
 
 if __name__ == "__main__":
-    scraped_results = scrape_from_xpaths_and_filter()
-    print(scraped_results)
-   
+    main()
