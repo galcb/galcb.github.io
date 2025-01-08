@@ -1,44 +1,43 @@
-name: Daily Scrape Links
+name: Daily Scrape
 
-# This workflow will run once a day
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight UTC
-
-  # Allows manual trigger if needed
-  workflow_dispatch:
+    - cron: '0 0 * * *'  # This will run daily at midnight UTC
+  push:
+    branches:
+      - main  # Trigger on push to main
 
 jobs:
-  scrape:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout the code from the repository
-      - name: Checkout code
-        uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v2
 
-      # Set up Python
-      - name: Set up Python 3.9
-        uses: actions/setup-python@v4
-        with:
-          python-version: 3.9
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
 
-      # Install dependencies
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements.txt
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
 
-      # Run the scraping script
-      - name: Run the scraping script
-        run: |
-          python scrape_links.py
+    - name: Run the scraper
+      run: |
+        python scrape_links.py
 
-      # Commit and push the updated file with the scraped data
-      - name: Commit and push changes
-        uses: EndBug/add-and-commit@v7
-        with:
-          author_name: "GitHub Actions"
-          author_email: "actions@github.com"
-          message: "Add daily scraped links"
-          add: "scraped_links.md"
+    - name: Configure Git
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+    - name: Commit and Push changes
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Use the secret for authentication
+      run: |
+        git add .
+        git commit -m "Add daily scraped links"
+        git push https://github.com/${{ github.repository }} HEAD:gh-pages  # Push to gh-pages or main, as necessary
