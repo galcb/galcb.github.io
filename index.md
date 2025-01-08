@@ -1,4 +1,4 @@
-# Welcome to the Servscraper!
+# Welcome to the SERV Scraper 🌆!
 
 Here are some upcoming bill mentions in LIS!:
 
