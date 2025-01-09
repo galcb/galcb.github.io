@@ -7,7 +7,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 import time
 import os
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 
 def generate_markdown(results, date_header):
     markdown = f"## {date_header}\n\n"  # Add the date header
@@ -91,7 +91,11 @@ def scrape_from_xpaths_and_filter():
 
 def main():
     # Get today's date for the header
-    today_date = datetime.today().strftime('%Y-%m-%d')
+    eastern_offset = timedelta(hours=-5)  # Standard Time (UTC-5)
+    eastern_time = datetime.now(timezone(eastern_offset))
+
+    # Format the date
+    today_date = eastern_time.strftime('%Y-%m-%d')
 
     # Scrape the links
     scraped_results = scrape_from_xpaths_and_filter()

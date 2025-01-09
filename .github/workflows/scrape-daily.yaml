@@ -3,7 +3,8 @@ name: Daily Scrape Links
 # This workflow will run once a day
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+    - cron: "0 6 * * *"  # Runs daily at 1:00 AM ET during Standard Time
+    - cron: "0 5 * * *"  # Runs daily at 1:00 AM ET during Daylight Saving Time
 
   # Allows manual trigger if needed
   workflow_dispatch:
