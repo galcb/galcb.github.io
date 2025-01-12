@@ -114,7 +114,7 @@ def scrape_from_xpaths_and_filter():
                 # Check if the text starts with any word in filter_words and href is not empty
                 if any(text.startswith(word) for word in filter_words) and href:
                     # Get the link to the <a> tag (the outer HTML)
-                    link_to_tag = a_tag.get_attribute('outerHTML')
+                    link_to_tag = link + a_tag.get_attribute('outerHTML')
                     # Add the results to the list as a tuple of text, href, and link to the <a> tag
                     results.append((text, href, link_to_tag))
         except Exception as e:
