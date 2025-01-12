@@ -75,7 +75,7 @@ def scrape_from_xpaths_and_filter():
     # Check if the concatenated text matches the existing content
     if combined_text == existing_content:
         print("The text of the <a> tags is the same as in toplinks.txt. No changes made.")
-        sys.exit()
+        sys.exit(0)
     
     # Write the new concatenated text to toplinks.txt
     with open(top_links_file, 'w') as file:
