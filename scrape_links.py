@@ -7,12 +7,13 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 import time
 import os
+import sys
 from datetime import datetime, timedelta, timezone
 
 def generate_markdown(results, date_header):
     markdown = f"## {date_header}\n\n"  # Add the date header
     for text, href, link_to_tag in results:
-        markdown += f"- [{text}]({href})\n"  # Format each result as a list item
+        markdown += f"- [{text}]({link_to_tag})\n"  # Format each result as a list item
     markdown += "\n"  # Add an empty line at the end
     return markdown
 
@@ -49,6 +50,37 @@ def scrape_from_xpaths_and_filter():
     )
 
     # Find the "closest to top" <a> tag for each XPath
+    top_links_file = "toplinks.txt"
+    
+    # Read the current content of toplinks.txt if it exists
+    existing_content = ""
+    if os.path.exists(top_links_file):
+        with open(top_links_file, 'r') as file:
+            existing_content = file.read().strip()
+    
+    # Collect the text of the <a> tags
+    combined_text = ""
+    day_text = ""
+    for xpath in xpaths:
+        try:
+            # Get the first <a> tag within the XPath
+            element = driver.find_element(By.XPATH, xpath)
+            text = element.text.strip()
+            if text:
+                combined_text += text  # Concatenate the text of the <a> tags
+                day_text = text
+        except Exception as e:
+            print(f"Error finding element for XPath {xpath}: {e}")
+    
+    # Check if the concatenated text matches the existing content
+    if combined_text == existing_content:
+        print("The text of the <a> tags is the same as in toplinks.txt. No changes made.")
+        sys.exit()
+    
+    # Write the new concatenated text to toplinks.txt
+    with open(top_links_file, 'w') as file:
+        file.write(combined_text)
+    
     top_links = []
     for xpath in xpaths:
         try:
@@ -69,7 +101,7 @@ def scrape_from_xpaths_and_filter():
         print("hey, trying " + str(link))
         try:
             driver.get(link)  # Visit the page
-            time.sleep(5.0)
+            time.sleep(8.0)
 
             # Now retrieve all <a> tags
             a_tags = driver.find_elements(By.TAG_NAME, 'a')
@@ -89,28 +121,21 @@ def scrape_from_xpaths_and_filter():
             print(f"Error visiting link {link}: {e}")
 
     driver.quit()  # Close the browser
-    return results
+    return results, day_text
 
 def main():
-    # Get today's date for the header
-    eastern_offset = timedelta(hours=-5)  # Standard Time (UTC-5)
-    eastern_time = datetime.now(timezone(eastern_offset))
-
-    # Format the date
-    today_date = eastern_time.strftime('%Y-%m-%d')
-
     # Scrape the links
-    scraped_results = scrape_from_xpaths_and_filter()
+    scraped_results, day_text = scrape_from_xpaths_and_filter()
 
     # Generate Markdown content with today's date as the header
-    markdown_content = generate_markdown(scraped_results, today_date)
+    markdown_content = generate_markdown(scraped_results, day_text)
 
     # Define the file path where the results will be saved
     file_path = "scraped_links.md"
 
     # Save the results to the file
     save_results_to_file(file_path, markdown_content)
-    print(f"Results for {today_date} have been saved to {file_path}.")
+    print(f"Results for {day_text} have been saved to {file_path}.")
 
 if __name__ == "__main__":
     main()
