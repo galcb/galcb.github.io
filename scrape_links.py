@@ -17,10 +17,12 @@ def generate_markdown(results, date_header):
     return markdown
 
 def save_results_to_file(file_path, markdown_content):
-    # Check if the file exists; if it does, append, otherwise create a new file
+    # Check if the file exists; if it does, prepend, otherwise create a new file
     if os.path.exists(file_path):
-        with open(file_path, 'a') as file:
-            file.write(markdown_content)
+        with open(file_path, 'r') as file:
+            existing_content = file.read()
+        with open(file_path, 'w') as file:
+            file.write(markdown_content + existing_content)
     else:
         with open(file_path, 'w') as file:
             file.write(markdown_content)
@@ -59,7 +61,7 @@ def scrape_from_xpaths_and_filter():
             print(f"Error finding element for XPath {xpath}: {e}")
 
     # Array of words to match against <a> tag text
-    filter_words = ["HB", "SB"]
+    filter_words = ["HB1601", "HB1616", "HB1603", "HJ434", "HB1764", "HB1768", "HB1779", "HB1791", "HB1821", "HB1834", "HB2025", "HB2030", "HB2034", "HB2037", "HB2528", "HB2509", "HB2506", "HB2497", "HB2464", "HB2408", "HB2459", "HB2335", "SB823", "SB806", "SB794", "SB777", "SB830", "SB839", "HB1597", "HB1607", "HB1608", "HB1622", "SB774",]
 
     # Visit each top link and collect matching <a> tags
     results = []
