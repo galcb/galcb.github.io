@@ -98,7 +98,6 @@ def scrape_from_xpaths_and_filter():
     # Visit each top link and collect matching <a> tags
     results = []
     for link in top_links:
-        print("hey, trying " + str(link))
         try:
             driver.get(link)  # Visit the page
             time.sleep(8.0)
@@ -113,10 +112,19 @@ def scrape_from_xpaths_and_filter():
 
                 # Check if the text starts with any word in filter_words and href is not empty
                 if any(text.startswith(word) for word in filter_words) and href:
-                    # Get the link to the <a> tag (the outer HTML)
-                    link_to_tag = link + a_tag.get_attribute('outerHTML')
+                    # Build a scrollable link to the tag using the href and JS-based scrolling
+                    # Ensure the href is relative to the page URL
+                    element_id = a_tag.get_attribute('id') or a_tag.get_attribute('name')  # Get id or name if available
+                    if element_id:
+                        # Use a fragment identifier if id or name is present
+                        link_to_tag = f"{link}#{element_id}"
+                    else:
+                        # Fallback: Link directly to the page since no fragment identifier exists
+                        link_to_tag = f"{link}#unknown-{text[:30]}"  # Use the first 30 chars of text to identify
+
                     # Add the results to the list as a tuple of text, href, and link to the <a> tag
                     results.append((text, href, link_to_tag))
+
         except Exception as e:
             print(f"Error visiting link {link}: {e}")
 
