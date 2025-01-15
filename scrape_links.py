@@ -11,7 +11,7 @@ import sys
 
 def generate_markdown(results, date_header, houselink, senatelink):
     markdown = f"## {date_header}" + f"- [House Sched.  ]({houselink})" + f"- [Senate Sched.]({senatelink})\n\n"  # Add the date header
-    for text, href in results:
+    for text, href, link_to_tag in results:
         markdown += f"- [{text}]({href})\n"  # Format each result as a list item
     markdown += "\n"  # Add an empty line at the end
     return markdown

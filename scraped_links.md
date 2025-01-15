@@ -1,3 +1,8 @@
+## January 15, 2025- [House Sched.  ](h)- [Senate Sched.](t)
+
+- [HB1597](https://lis.virginia.gov/bill-details/20251/HB1597)
+- [SB823](https://lis.virginia.gov/bill-details/20251/SB823)
+
 ## January 14, 2025
 
 - [HB2025](https://lis.virginia.gov/session-details/20251/calendar/HC10114#unknown-HB2025)
