@@ -10,7 +10,7 @@ import os
 import sys
 
 def generate_markdown(results, date_header, houselink, senatelink):
-    markdown = f"## {date_header}" + f"- [House Sched.  ]({houselink})" + f"- [Senate Sched.]({senatelink})\n\n"  # Add the date header
+    markdown = f"## {date_header}" + f" [House Sched.  ]({houselink})" + f"- [Senate Sched.]({senatelink})\n\n"  # Add the date header
     for text, href, link_to_tag in results:
         markdown += f"- [{text}]({href})\n"  # Format each result as a list item
     markdown += "\n"  # Add an empty line at the end
@@ -128,7 +128,7 @@ def scrape_from_xpaths_and_filter():
             print(f"Error visiting link {link}: {e}")
 
     driver.quit()  # Close the browser
-    return results, day_text, link[0], link[1]
+    return results, day_text, top_links[0], top_links[1]
 
 def main():
     # Scrape the links

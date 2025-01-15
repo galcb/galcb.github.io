@@ -1,4 +1,4 @@
-## January 15, 2025- [House Sched.  ](h)- [Senate Sched.](t)
+## January 15, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10115)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10115)
 
 - [HB1597](https://lis.virginia.gov/bill-details/20251/HB1597)
 - [SB823](https://lis.virginia.gov/bill-details/20251/SB823)
