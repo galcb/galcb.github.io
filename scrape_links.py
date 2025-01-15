@@ -8,12 +8,11 @@ from webdriver_manager.chrome import ChromeDriverManager
 import time
 import os
 import sys
-from datetime import datetime, timedelta, timezone
 
-def generate_markdown(results, date_header):
-    markdown = f"## {date_header}\n\n"  # Add the date header
-    for text, href, link_to_tag in results:
-        markdown += f"- [{text}]({link_to_tag})\n"  # Format each result as a list item
+def generate_markdown(results, date_header, houselink, senatelink):
+    markdown = f"## {date_header}" + f"- [House Sched.  ]({houselink})" + f"- [Senate Sched.]({senatelink})\n\n"  # Add the date header
+    for text, href in results:
+        markdown += f"- [{text}]({href})\n"  # Format each result as a list item
     markdown += "\n"  # Add an empty line at the end
     return markdown
 
@@ -93,7 +92,7 @@ def scrape_from_xpaths_and_filter():
             print(f"Error finding element for XPath {xpath}: {e}")
 
     # Array of words to match against <a> tag text
-    filter_words = ["HB1601", "HB1616", "HB1603", "HJ434", "HB1764", "HB1768", "HB1779", "HB1791", "HB1821", "HB1834", "HB2025", "HB2030", "HB2034", "HB2037", "HB2528", "HB2509", "HB2506", "HB2497", "HB2464", "HB2408", "HB2459", "HB2335", "SB823", "SB806", "SB794", "SB777", "SB830", "SB839", "HB1597", "HB1607", "HB1608", "HB1622", "SB774",]
+    filter_words = ["HB1601", "HB1616", "HB1603", "HJ434", "HB1764", "HB1768", "HB1779", "HB1791", "HB1821", "HB1834", "HB2025", "HB2030", "HB2034", "HB2037", "HB2528", "HB2509", "HB2506", "HB2497", "HB2464", "HB2408", "HB2459", "HB2335", "SB823", "SB806", "SB794", "SB777", "SB830", "SB839", "HB1597", "HB1607", "HB1608", "HB1622", "SB774"]
 
     # Visit each top link and collect matching <a> tags
     results = []
@@ -129,14 +128,14 @@ def scrape_from_xpaths_and_filter():
             print(f"Error visiting link {link}: {e}")
 
     driver.quit()  # Close the browser
-    return results, day_text
+    return results, day_text, link[0], link[1]
 
 def main():
     # Scrape the links
-    scraped_results, day_text = scrape_from_xpaths_and_filter()
+    scraped_results, day_text, linkhouse, linksen = scrape_from_xpaths_and_filter()
 
     # Generate Markdown content with today's date as the header
-    markdown_content = generate_markdown(scraped_results, day_text)
+    markdown_content = generate_markdown(scraped_results, day_text, linkhouse, linksen)
 
     # Define the file path where the results will be saved
     file_path = "scraped_links.md"

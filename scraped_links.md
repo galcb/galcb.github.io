@@ -1,8 +1,3 @@
-## January 15, 2025
-
-- [HB1597](https://lis.virginia.gov/session-details/20251/calendar/HC10115#unknown-HB1597)
-- [SB823](https://lis.virginia.gov/session-details/20251/calendar/SC10115#unknown-SB823)
-
 ## January 14, 2025
 
 - [HB2025](https://lis.virginia.gov/session-details/20251/calendar/HC10114#unknown-HB2025)
