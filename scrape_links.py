@@ -20,6 +20,10 @@ def name_bill(bn):
         return f"{bn} - Tidal and nontidal wetlands; wetland restoration and creation policy task force, report."
     if bn =="HB2528":
         return f"{bn} - Electric utilities; customer energy choice; customer return to service; subscription cap and queue."
+    if bn =="HB1832":
+        return f"{bn} - Faith in Housing"
+    if bn == "HB2355":
+        return f"{bn} - Mold Study"
     return f"{bn} - Bill Name Unknown"
 
 def generate_markdown(results, date_header, houselink, senatelink):
@@ -105,7 +109,7 @@ def scrape_from_xpaths_and_filter():
             print(f"Error finding element for XPath {xpath}: {e}")
 
     # Array of words to match against <a> tag text
-    filter_words = ["SB780", "HB2371", "HB2611", "HB2034", "HB2528"]
+    filter_words = ["SB780", "HB2371", "HB2611", "HB2034", "HB2528", "HB1832", "HB2355"]
 
     # Visit each top link and collect matching <a> tags
     results = []
