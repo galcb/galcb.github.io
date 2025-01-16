@@ -9,6 +9,19 @@ import time
 import os
 import sys
 
+def name_bill(bn):
+    if bn=="SB780":
+        return f"{bn} - Health insurance; coverage for contraceptive drugs and devices."
+    if bn=="HB3271":
+        return f"{bn} - Health insurance; coverage for contraceptive drugs and devices."
+    if bn=="HB2611":
+        return f"{bn} - Health insurance; coverage for cancer follow-up testing; report."
+    if bn=="HB2034":
+        return f"{bn} - Tidal and nontidal wetlands; wetland restoration and creation policy task force, report."
+    if bn =="HB2528":
+        return f"{bn} - Electric utilities; customer energy choice; customer return to service; subscription cap and queue."
+    return f"{bn} - Bill Name Unknown"
+
 def generate_markdown(results, date_header, houselink, senatelink):
     markdown = f"## {date_header}" + f" [House Sched.  ]({houselink})" + f"- [Senate Sched.]({senatelink})\n\n"  # Add the date header
     for text, href, link_to_tag in results:
@@ -92,7 +105,7 @@ def scrape_from_xpaths_and_filter():
             print(f"Error finding element for XPath {xpath}: {e}")
 
     # Array of words to match against <a> tag text
-    filter_words = ["HB1601", "HB1616", "HB1603", "HJ434", "HB1764", "HB1768", "HB1779", "HB1791", "HB1821", "HB1834", "HB2025", "HB2030", "HB2034", "HB2037", "HB2528", "HB2509", "HB2506", "HB2497", "HB2464", "HB2408", "HB2459", "HB2335", "SB823", "SB806", "SB794", "SB777", "SB830", "SB839", "HB1597", "HB1607", "HB1608", "HB1622", "SB774"]
+    filter_words = ["SB780", "HB2371", "HB2611", "HB2034", "HB2528"]
 
     # Visit each top link and collect matching <a> tags
     results = []
