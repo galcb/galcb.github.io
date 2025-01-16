@@ -10,13 +10,13 @@ import os
 import sys
 
 def name_bill(bn):
-    if bn=="SB780":
+    if bn =="SB780":
         return f"{bn} - Health insurance; coverage for contraceptive drugs and devices."
-    if bn=="HB3271":
+    if bn =="HB3271":
         return f"{bn} - Health insurance; coverage for contraceptive drugs and devices."
-    if bn=="HB2611":
+    if bn =="HB2611":
         return f"{bn} - Health insurance; coverage for cancer follow-up testing; report."
-    if bn=="HB2034":
+    if bn =="HB2034":
         return f"{bn} - Tidal and nontidal wetlands; wetland restoration and creation policy task force, report."
     if bn =="HB2528":
         return f"{bn} - Electric utilities; customer energy choice; customer return to service; subscription cap and queue."
@@ -26,6 +26,19 @@ def name_bill(bn):
         return f"{bn} - ADUs"
     if bn == "HB2355":
         return f"{bn} - Mold Study"
+    if bn == "HB2222":
+        return f"{bn} - Use of restraints on juveniles in court prohibited"
+    if bn == "SB1255":
+        return f"{bn} - Use of restraints on juveniles in court prohibited"
+    if bn == "HB1597":
+        return f"{bn} - Safe Storage"
+    if bn == "SB1134":
+        return f"{bn} - Safe Storage with Minors"
+    if bn == "SB1182":
+        return f"{bn} - Campus Carry Restrictions"
+    if bn == "HB1876":
+        return f"{bn} - Campus Carry Restrictions"
+    
     return f"{bn} - Bill Name Unknown"
 
 def generate_markdown(results, date_header, houselink, senatelink):
@@ -111,7 +124,7 @@ def scrape_from_xpaths_and_filter():
             print(f"Error finding element for XPath {xpath}: {e}")
 
     # Array of words to match against <a> tag text
-    filter_words = ["SB780", "HB2371", "HB2611", "HB2034", "HB2528", "HB1832", "HB2355", "HB1124"]
+    filter_words = ["SB1182", "SB1134", "SB780", "HB2371", "HB2611", "HB2034", "HB2528", "HB1832", "HB2355", "HB1124", "HB2222", "SB1255", "HB1597", "HB1876"]
 
     # Visit each top link and collect matching <a> tags
     results = []
