@@ -2,6 +2,12 @@
 
 - [HB2222](https://lis.virginia.gov/bill-details/20251/HB2222)
 
+## January 17, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10116)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10117)
+
+
+## January 16, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10116)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10116)
+
+
 ## January 15, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10115)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10115)
 
 - [HB1597](https://lis.virginia.gov/bill-details/20251/HB1597)
