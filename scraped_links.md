@@ -1,3 +1,6 @@
+## January 17, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10116)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10117)
+
+
 ## January 16, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10116)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10116)
 
 
