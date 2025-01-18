@@ -12,7 +12,7 @@ import sys
 def name_bill(bn):
     if bn =="SB780":
         return f"{bn} - Health insurance; coverage for contraceptive drugs and devices."
-    if bn =="HB3271":
+    if bn =="HB2371":
         return f"{bn} - Health insurance; coverage for contraceptive drugs and devices."
     if bn =="HB2611":
         return f"{bn} - Health insurance; coverage for cancer follow-up testing; report."

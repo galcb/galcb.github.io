@@ -1,7 +1,7 @@
 ## January 20, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10120)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10120)
 
 - [HB2355 - Mold Study](https://lis.virginia.gov/bill-details/20251/HB2355)
-- [HB2371 - Bill Name Unknown](https://lis.virginia.gov/bill-details/20251/HB2371)
+- [HB2371 - Health insurance; coverage for contraceptive drugs and devices.](https://lis.virginia.gov/bill-details/20251/HB2371)
 - [HB2528 - Electric utilities; customer energy choice; customer return to service; subscription cap and queue.](https://lis.virginia.gov/bill-details/20251/HB2528)
 
 ## January 17, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10117)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10117)
