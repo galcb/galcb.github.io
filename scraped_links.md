@@ -1,3 +1,10 @@
+## January 21, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10121)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10121)
+
+- [HB2611 - Health insurance; coverage for cancer follow-up testing; report.](https://lis.virginia.gov/bill-details/20251/HB2611)
+- [HB2647 - State correctional facilities; use of restorative housing or isolated confinement; restrictions.](https://lis.virginia.gov/bill-details/20251/HB2647)
+- [SB1255 - Use of restraints on juveniles in court prohibited](https://lis.virginia.gov/bill-details/20251/SB1255)
+- [SB1182 - Campus Carry Restrictions](https://lis.virginia.gov/bill-details/20251/SB1182)
+
 ## January 20, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10120)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10120)
 
 - [HB2355 - Mold Study](https://lis.virginia.gov/bill-details/20251/HB2355)
