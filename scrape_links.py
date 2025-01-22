@@ -25,7 +25,7 @@ def name_bill(bn):
     if bn =="HB1832":
         return f"{bn} - ADUs"
     if bn == "HB2355":
-        return f"{bn} - Mold Study"
+        return f"{bn} - Virginia Consumer Protection Act; professional mold remediators,"
     if bn == "HB2222":
         return f"{bn} - Use of restraints on juveniles in court prohibited"
     if bn == "SB1255":
@@ -48,6 +48,8 @@ def name_bill(bn):
         return f"{bn} - Telehealth Services"
     if bn == "HB1954":
         return f"{bn} - Funding At-Risk Students"
+    if bn == "HB2195":
+        return f"{bn} - Mold inspectors and remediators;"
     
     return f"{bn} - Bill Name Unknown"
 
@@ -134,7 +136,7 @@ def scrape_from_xpaths_and_filter():
             print(f"Error finding element for XPath {xpath}: {e}")
 
     # Array of words to match against <a> tag text
-    filter_words = ["SB1262","HB2196", "HB1958", "HB1945", "HB1954", "SB1182", "SB1409", "SB780", "HB2371", "HB2611", "HB2034", "HB2528", "HB1832", "HB2355", "HB1124", "HB2222", "SB1255", "HB2647", "HB1876"]
+    filter_words = ["HB2195", "SB1262","HB2196", "HB1958", "HB1945", "HB1954", "SB1182", "SB1409", "SB780", "HB2371", "HB2611", "HB2034", "HB2528", "HB1832", "HB2355", "HB1124", "HB2222", "SB1255", "HB2647", "HB1876"]
 
     # Visit each top link and collect matching <a> tags
     results = []
