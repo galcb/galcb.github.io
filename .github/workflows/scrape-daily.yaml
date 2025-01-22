@@ -1,9 +1,10 @@
 name: Daily Scrape Links
 
-# This workflow will run once a day
+# This workflow will run twice a day
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Runs every 6 hours
+    - cron: "0 23 * * *"  # Runs at 6 PM EST (11 PM UTC)
+    - cron: "0 0 * * *"   # Runs at 7 PM EST (12 AM UTC)
   # Allows manual trigger if needed
   workflow_dispatch:
 
