@@ -1,3 +1,10 @@
+## January 23, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10123)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10123)
+
+- [SB1255 - Use of restraints on juveniles in court prohibited](https://lis.virginia.gov/bill-details/20251/SB1255)
+- [SB780 - Health insurance; coverage for contraceptive drugs and devices.](https://lis.virginia.gov/bill-details/20251/SB780)
+- [SB1182 - Campus Carry Restrictions](https://lis.virginia.gov/bill-details/20251/SB1182)
+- [SB1409 - State correctional facilities; use of restorative housing or isolated confinement; restrictions.](https://lis.virginia.gov/bill-details/20251/SB1409)
+
 ## January 22, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10122)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10122)
 
 - [SB1255 - Use of restraints on juveniles in court prohibited](https://lis.virginia.gov/bill-details/20251/SB1255)
