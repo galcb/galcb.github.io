@@ -1,7 +1,15 @@
 ## January 23, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10123)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10123)
 
+- [HB1601 - Data Centers; site assesment for a high energy use facility](https://lis.virginia.gov/bill-details/20251/HB1601)
+- [HB1608 - Firearm Industry Restrictions](https://lis.virginia.gov/bill-details/20251/HB1608)
+- [HB1649 - Unconcious bias and cultural comptency](https://lis.virginia.gov/bill-details/20251/HB1649)
+- [HB1894 - Temperature in Prisons](https://lis.virginia.gov/bill-details/20251/HB1894)
+- [HB2724 - ALPRs](https://lis.virginia.gov/bill-details/20251/HB2724)
 - [SB1255 - Use of restraints on juveniles in court prohibited](https://lis.virginia.gov/bill-details/20251/SB1255)
+- [SB777 - Tire stewardship program](https://lis.virginia.gov/bill-details/20251/SB777)
 - [SB780 - Health insurance; coverage for contraceptive drugs and devices.](https://lis.virginia.gov/bill-details/20251/SB780)
+- [SB830 - Eviction Diversion Pilot Program](https://lis.virginia.gov/bill-details/20251/SB830)
+- [SB1134 - Safe Storage with Minors](https://lis.virginia.gov/bill-details/20251/SB1134)
 - [SB1182 - Campus Carry Restrictions](https://lis.virginia.gov/bill-details/20251/SB1182)
 - [SB1409 - State correctional facilities; use of restorative housing or isolated confinement; restrictions.](https://lis.virginia.gov/bill-details/20251/SB1409)
 
