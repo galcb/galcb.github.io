@@ -1,8 +1,3 @@
-## January 22, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10122)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10122)
-
-- [SB1255 - Use of restraints on juveniles in court prohibited](https://lis.virginia.gov/bill-details/20251/SB1255)
-- [SB780 - Health insurance; coverage for contraceptive drugs and devices.](https://lis.virginia.gov/bill-details/20251/SB780)
-
 ## January 21, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10121)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10121)
 
 - [HB2611 - Health insurance; coverage for cancer follow-up testing; report.](https://lis.virginia.gov/bill-details/20251/HB2611)

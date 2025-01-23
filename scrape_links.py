@@ -9,6 +9,8 @@ import time
 import os
 import sys
 
+
+#this was supposed to be a fucking quick fix because we were supposed to have 12 bills. I DO NOT WANT TO HEAR ABOUT IT.
 def name_bill(bn):
     if bn =="SB780":
         return f"{bn} - Health insurance; coverage for contraceptive drugs and devices."
@@ -50,6 +52,76 @@ def name_bill(bn):
         return f"{bn} - Funding At-Risk Students"
     if bn == "HB2195":
         return f"{bn} - Mold inspectors and remediators;"
+    if bn == "HB1866":
+        return f"{bn} - Payment of costs when proceedings deferred and defendant placed on probation."
+    if bn == "HB2555":
+        return f"{bn} - Marijuana-related offenses; modification of sentence,sunset."
+    if bn == "HB1894":
+        return f"{bn} - Temperature in Prisons"
+    if bn == "HB2724":
+        return f"{bn} - ALPRs"
+    if bn == "SB1013":
+        return f"{bn} - Reduced penalty for a neurocognitive disorder or intellectual or developmental disability."
+    if bn == "HB1601":
+        return f"{bn} - Data Centers; site assesment for a high energy use facility"
+    if bn == "HB1791":
+        return f"{bn} - Electric vehicle rural infrastructure program and fund created"
+    if bn == "HB2025":
+        return f"{bn} - Wildlife corridors or crossings; action plan and programs"
+    if bn == "HB2030":
+        return f"{bn} - Environmental Justice Task Force"
+    if bn == "HB2506":
+        return f"{bn} - Tax credit on energy efficient homes"
+    if bn == "HB2335":
+        return f"{bn} - The Blue Catfish one, because I guess we as students care about catfish licenses..."
+    if bn == "SB823":
+        return f"{bn} - Electric utilities; construction of renewable energy facilities"
+    if bn == "SB806":
+        return f"{bn} - State air pollution control board"
+    if bn == "SB777":
+        return f"{bn} - Tire stewardship program"
+    if bn == "SB777":
+        return f"{bn} - Low-income energy efficiency and weatherization task force"
+    if bn == "HB2153":
+        return f"{bn} - Faith in Housing"
+    if bn == "SB830":
+        return f"{bn} - Eviction Diversion Pilot Program"
+    if bn == "SB839":
+        return f"{bn} - Zoning; by-right multifamily"
+    if bn == "SB917":
+        return f"{bn} - Repeal on Ban on Collective Bargaining"
+    if bn == "SB932":
+        return f"{bn} - ADUs"
+    if bn == "HB1649":
+        return f"{bn} - Unconcious bias and cultural comptency"
+    if bn == "HB2083":
+        return f"{bn} - Special enrollment period for pregnancy"
+    if bn == "HB1957":
+        return f"{bn} - Safe Storage"
+    if bn == "HB1607":
+        return f"{bn} - Assault Weapon Restrictions"
+    if bn == "HB1608":
+        return f"{bn} - Firearm Industry Restrictions"
+    if bn == "HB1622":
+        return f"{bn} - Firearms in Cars"
+    if bn == "SB1134":
+        return f"{bn} - Safe Storage with Minors"
+    if bn == "SB1109":
+        return f"{bn} - Requires Permit to Purchase"
+    if bn == "HB2240":
+        return f"{bn} - Hunger Free Campus Food Pantry Program"
+    if bn == "SB1003":
+        return f"{bn} - Free School Breakfast"
+    if bn == "SB1018":
+        return f"{bn} - Inform College Students of SNAP Eligibility"
+    if bn == "SB1016":
+        return f"{bn} - Food Pantries at Institutions of higher learning"
+    if bn == "SB1037":
+        return f"{bn} - Student access to telehealth services"
+    if bn == "SB1262":
+        return f"{bn} - Restorative Schools"
+    if bn == "HB 1650":
+        return f"{bn} - Expanding the authority of the AG to investigate organizations suspected of \"terrorism\""
     
     return f"{bn} - Bill Name Unknown"
 
@@ -136,7 +208,7 @@ def scrape_from_xpaths_and_filter():
             print(f"Error finding element for XPath {xpath}: {e}")
 
     # Array of words to match against <a> tag text
-    filter_words = ["HB2195", "SB1262","HB2196", "HB1958", "HB1945", "HB1954", "SB1182", "SB1409", "SB780", "HB2371", "HB2611", "HB2034", "HB2528", "HB1832", "HB2355", "HB1124", "HB2222", "SB1255", "HB2647", "HB1876"]
+    filter_words = ["HB2240","SB1003","SB1018","SB1016","SB1037","SB1262","HB 1650", "HB2153","SB830","SB839","SB917","SB932","HB1649","HB2083","HB1957","HB1607","HB1608", "HB1622","SB1134","SB1109", "SB777","SB777","SB806","SB823","HB2335","HB2506","HB2506","HB2030","HB2025","HB1791","HB1601", "SB1013", "HB2724","HB1894","HB2555","HB1866", "HB2195", "SB1262","HB2196", "HB1958", "HB1945", "HB1954", "SB1182", "SB1409", "SB780", "HB2371", "HB2611", "HB2034", "HB2528", "HB1832", "HB2355", "HB1124", "HB2222", "SB1255", "HB2647", "HB1876"]
 
     # Visit each top link and collect matching <a> tags
     results = []
