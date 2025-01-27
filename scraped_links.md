@@ -1,3 +1,15 @@
+## January 28, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10127)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10128)
+
+- [HB2034 - Tidal and nontidal wetlands; wetland restoration and creation policy task force, report.](https://lis.virginia.gov/bill-details/20251/HB2034)
+- [HB1649 - Unconcious bias and cultural comptency](https://lis.virginia.gov/bill-details/20251/HB1649)
+- [HB2083 - Special enrollment period for pregnancy](https://lis.virginia.gov/bill-details/20251/HB2083)
+- [HB1791 - Electric vehicle rural infrastructure program and fund created](https://lis.virginia.gov/bill-details/20251/HB1791)
+- [SB1134 - Safe Storage with Minors](https://lis.virginia.gov/bill-details/20251/SB1134)
+- [SB1182 - Campus Carry Restrictions](https://lis.virginia.gov/bill-details/20251/SB1182)
+- [SB1409 - State correctional facilities; use of restorative housing or isolated confinement; restrictions.](https://lis.virginia.gov/bill-details/20251/SB1409)
+- [SB932 - ADUs](https://lis.virginia.gov/bill-details/20251/SB932)
+- [SB917 - Repeal on Ban on Collective Bargaining](https://lis.virginia.gov/bill-details/20251/SB917)
+
 ## January 27, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10127)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10127)
 
 - [HB2034 - Tidal and nontidal wetlands; wetland restoration and creation policy task force, report.](https://lis.virginia.gov/bill-details/20251/HB2034)
