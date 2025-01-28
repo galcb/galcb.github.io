@@ -1,3 +1,18 @@
+## January 28, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10128)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10128)
+
+- [HB2034 - Tidal and nontidal wetlands; wetland restoration and creation policy task force, report.](https://lis.virginia.gov/bill-details/20251/HB2034)
+- [HB2083 - Special enrollment period for pregnancy](https://lis.virginia.gov/bill-details/20251/HB2083)
+- [HB1649 - Unconcious bias and cultural comptency](https://lis.virginia.gov/bill-details/20251/HB1649)
+- [HB2222 - Use of restraints on juveniles in court prohibited](https://lis.virginia.gov/bill-details/20251/HB2222)
+- [HB1622 - Firearms in Cars](https://lis.virginia.gov/bill-details/20251/HB1622)
+- [HB2555 - Marijuana-related offenses; modification of sentence,sunset.](https://lis.virginia.gov/bill-details/20251/HB2555)
+- [HB2647 - State correctional facilities; use of restorative housing or isolated confinement; restrictions.](https://lis.virginia.gov/bill-details/20251/HB2647)
+- [SB1134 - Safe Storage with Minors](https://lis.virginia.gov/bill-details/20251/SB1134)
+- [SB1182 - Campus Carry Restrictions](https://lis.virginia.gov/bill-details/20251/SB1182)
+- [SB1409 - State correctional facilities; use of restorative housing or isolated confinement; restrictions.](https://lis.virginia.gov/bill-details/20251/SB1409)
+- [SB932 - ADUs](https://lis.virginia.gov/bill-details/20251/SB932)
+- [SB917 - Repeal on Ban on Collective Bargaining](https://lis.virginia.gov/bill-details/20251/SB917)
+
 ## January 28, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10127)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10128)
 
 - [HB2034 - Tidal and nontidal wetlands; wetland restoration and creation policy task force, report.](https://lis.virginia.gov/bill-details/20251/HB2034)
