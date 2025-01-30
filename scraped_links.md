@@ -1,3 +1,17 @@
+## January 31, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10130)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10131)
+
+- [HB2222 - Use of restraints on juveniles in court prohibited](https://lis.virginia.gov/bill-details/20251/HB2222)
+- [HB1622 - Firearms in Cars](https://lis.virginia.gov/bill-details/20251/HB1622)
+- [HB2555 - Marijuana-related offenses; modification of sentence,sunset.](https://lis.virginia.gov/bill-details/20251/HB2555)
+- [HB1945 - Telehealth Services](https://lis.virginia.gov/bill-details/20251/HB1945)
+- [HB1954 - Funding At-Risk Students](https://lis.virginia.gov/bill-details/20251/HB1954)
+- [SB1037 - Student access to telehealth services](https://lis.virginia.gov/bill-details/20251/SB1037)
+- [SB917 - Repeal on Ban on Collective Bargaining](https://lis.virginia.gov/bill-details/20251/SB917)
+- [SB1018 - Inform College Students of SNAP Eligibility](https://lis.virginia.gov/bill-details/20251/SB1018)
+- [SB1013 - Reduced penalty for a neurocognitive disorder or intellectual or developmental disability.](https://lis.virginia.gov/bill-details/20251/SB1013)
+- [HB1649 - Unconcious bias and cultural comptency](https://lis.virginia.gov/bill-details/20251/HB1649)
+- [HB2083 - Special enrollment period for pregnancy](https://lis.virginia.gov/bill-details/20251/HB2083)
+
 ## January 30, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10130)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10130)
 
 - [HB2222 - Use of restraints on juveniles in court prohibited](https://lis.virginia.gov/bill-details/20251/HB2222)
