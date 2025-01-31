@@ -1,3 +1,20 @@
+## February 3, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10131)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10203)
+
+- [HB1945 - Telehealth Services](https://lis.virginia.gov/bill-details/20251/HB1945)
+- [HB1954 - Funding At-Risk Students](https://lis.virginia.gov/bill-details/20251/HB1954)
+- [HB1894 - Temperature in Prisons](https://lis.virginia.gov/bill-details/20251/HB1894)
+- [HB1957 - Safe Storage](https://lis.virginia.gov/bill-details/20251/HB1957)
+- [HB2196 - Restorative Justice](https://lis.virginia.gov/bill-details/20251/HB2196)
+- [HB2240 - Hunger Free Campus Food Pantry Program](https://lis.virginia.gov/bill-details/20251/HB2240)
+- [HB2647 - State correctional facilities; use of restorative housing or isolated confinement; restrictions.](https://lis.virginia.gov/bill-details/20251/HB2647)
+- [HB2025 - Wildlife corridors or crossings; action plan and programs](https://lis.virginia.gov/bill-details/20251/HB2025)
+- [HB2030 - Environmental Justice Task Force](https://lis.virginia.gov/bill-details/20251/HB2030)
+- [HB2724 - ALPRs](https://lis.virginia.gov/bill-details/20251/HB2724)
+- [SB1018 - Inform College Students of SNAP Eligibility](https://lis.virginia.gov/bill-details/20251/SB1018)
+- [SB917 - Repeal on Ban on Collective Bargaining](https://lis.virginia.gov/bill-details/20251/SB917)
+- [SB1013 - Reduced penalty for a neurocognitive disorder or intellectual or developmental disability.](https://lis.virginia.gov/bill-details/20251/SB1013)
+- [SB1016 - Food Pantries at Institutions of higher learning](https://lis.virginia.gov/bill-details/20251/SB1016)
+
 ## January 31, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10131)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10131)
 
 - [HB1945 - Telehealth Services](https://lis.virginia.gov/bill-details/20251/HB1945)
