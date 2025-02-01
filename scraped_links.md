@@ -1,3 +1,17 @@
+## February 3, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10202)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10203)
+
+- [HB2195 - Mold inspectors and remediators;](https://lis.virginia.gov/bill-details/20251/HB2195)
+- [HB1607 - Assault Weapon Restrictions](https://lis.virginia.gov/bill-details/20251/HB1607)
+- [HB1791 - Electric vehicle rural infrastructure program and fund created](https://lis.virginia.gov/bill-details/20251/HB1791)
+- [HB1876 - Campus Carry Restrictions](https://lis.virginia.gov/bill-details/20251/HB1876)
+- [HB2153 - Faith in Housing](https://lis.virginia.gov/bill-details/20251/HB2153)
+- [HB2371 - Health insurance; coverage for contraceptive drugs and devices.](https://lis.virginia.gov/bill-details/20251/HB2371)
+- [HB2724 - ALPRs](https://lis.virginia.gov/bill-details/20251/HB2724)
+- [SB1018 - Inform College Students of SNAP Eligibility](https://lis.virginia.gov/bill-details/20251/SB1018)
+- [SB917 - Repeal on Ban on Collective Bargaining](https://lis.virginia.gov/bill-details/20251/SB917)
+- [SB1013 - Reduced penalty for a neurocognitive disorder or intellectual or developmental disability.](https://lis.virginia.gov/bill-details/20251/SB1013)
+- [SB1016 - Food Pantries at Institutions of higher learning](https://lis.virginia.gov/bill-details/20251/SB1016)
+
 ## February 3, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10131)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10203)
 
 - [HB1945 - Telehealth Services](https://lis.virginia.gov/bill-details/20251/HB1945)
