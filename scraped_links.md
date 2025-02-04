@@ -1,3 +1,12 @@
+## February 5, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10205)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10205)
+
+- [SB780 - Health insurance; coverage for contraceptive drugs and devices.](https://lis.virginia.gov/bill-details/20251/SB780)
+- [SB1134 - Safe Storage with Minors](https://lis.virginia.gov/bill-details/20251/SB1134)
+- [SB1182 - Campus Carry Restrictions](https://lis.virginia.gov/bill-details/20251/SB1182)
+- [SB1409 - State correctional facilities; use of restorative housing or isolated confinement; restrictions.](https://lis.virginia.gov/bill-details/20251/SB1409)
+- [HB1945 - Telehealth Services](https://lis.virginia.gov/bill-details/20251/HB1945)
+- [HB1954 - Funding At-Risk Students](https://lis.virginia.gov/bill-details/20251/HB1954)
+
 ## February 4, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10203)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10204)
 
 - [SB917 - Repeal on Ban on Collective Bargaining](https://lis.virginia.gov/bill-details/20251/SB917)
