@@ -1,3 +1,14 @@
+## February 7, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10207)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10207)
+
+- [SB830 - Eviction Diversion Pilot Program](https://lis.virginia.gov/bill-details/20251/SB830)
+- [SB1255 - Use of restraints on juveniles in court prohibited](https://lis.virginia.gov/bill-details/20251/SB1255)
+- [SB917 - Repeal on Ban on Collective Bargaining](https://lis.virginia.gov/bill-details/20251/SB917)
+- [SB1013 - Reduced penalty for a neurocognitive disorder or intellectual or developmental disability.](https://lis.virginia.gov/bill-details/20251/SB1013)
+- [SB1016 - Food Pantries at Institutions of higher learning](https://lis.virginia.gov/bill-details/20251/SB1016)
+- [HB1649 - Unconcious bias and cultural comptency](https://lis.virginia.gov/bill-details/20251/HB1649)
+- [HB1957 - Safe Storage](https://lis.virginia.gov/bill-details/20251/HB1957)
+- [HB2724 - ALPRs](https://lis.virginia.gov/bill-details/20251/HB2724)
+
 ## February 6, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10206)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10206)
 
 - [SB830 - Eviction Diversion Pilot Program](https://lis.virginia.gov/bill-details/20251/SB830)
