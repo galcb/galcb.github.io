@@ -13,6 +13,21 @@
 - [HB2371 - Health insurance; coverage for contraceptive drugs and devices.](https://lis.virginia.gov/bill-details/20251/HB2371)
 - [HB2647 - State correctional facilities; use of restorative housing or isolated confinement; restrictions.](https://lis.virginia.gov/bill-details/20251/HB2647)
 
+## February 6, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10206)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10206)
+
+- [SB830 - Eviction Diversion Pilot Program](https://lis.virginia.gov/bill-details/20251/SB830)
+- [SB1018 - Inform College Students of SNAP Eligibility](https://lis.virginia.gov/bill-details/20251/SB1018)
+- [SB1037 - Student access to telehealth services](https://lis.virginia.gov/bill-details/20251/SB1037)
+- [HB1791 - Electric vehicle rural infrastructure program and fund created](https://lis.virginia.gov/bill-details/20251/HB1791)
+- [HB1876 - Campus Carry Restrictions](https://lis.virginia.gov/bill-details/20251/HB1876)
+- [HB1894 - Temperature in Prisons](https://lis.virginia.gov/bill-details/20251/HB1894)
+- [HB2153 - Faith in Housing](https://lis.virginia.gov/bill-details/20251/HB2153)
+- [HB2195 - Mold inspectors and remediators;](https://lis.virginia.gov/bill-details/20251/HB2195)
+- [HB2196 - Restorative Justice](https://lis.virginia.gov/bill-details/20251/HB2196)
+- [HB2240 - Hunger Free Campus Food Pantry Program](https://lis.virginia.gov/bill-details/20251/HB2240)
+- [HB2371 - Health insurance; coverage for contraceptive drugs and devices.](https://lis.virginia.gov/bill-details/20251/HB2371)
+- [HB2647 - State correctional facilities; use of restorative housing or isolated confinement; restrictions.](https://lis.virginia.gov/bill-details/20251/HB2647)
+
 ## February 5, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10205)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10205)
 
 - [SB780 - Health insurance; coverage for contraceptive drugs and devices.](https://lis.virginia.gov/bill-details/20251/SB780)
