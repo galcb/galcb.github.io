@@ -1,3 +1,19 @@
+## February 11, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10211)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10211)
+
+- [SB777 - Tire stewardship program](https://lis.virginia.gov/bill-details/20251/SB777)
+- [SB780 - Health insurance; coverage for contraceptive drugs and devices.](https://lis.virginia.gov/bill-details/20251/SB780)
+- [SB932 - ADUs](https://lis.virginia.gov/bill-details/20251/SB932)
+- [SB1134 - Safe Storage with Minors](https://lis.virginia.gov/bill-details/20251/SB1134)
+- [SB1182 - Campus Carry Restrictions](https://lis.virginia.gov/bill-details/20251/SB1182)
+- [SB1409 - State correctional facilities; use of restorative housing or isolated confinement; restrictions.](https://lis.virginia.gov/bill-details/20251/SB1409)
+- [HB1894 - Temperature in Prisons](https://lis.virginia.gov/bill-details/20251/HB1894)
+- [HB1601 - Data Centers; site assesment for a high energy use facility](https://lis.virginia.gov/bill-details/20251/HB1601)
+- [HB2222 - Use of restraints on juveniles in court prohibited](https://lis.virginia.gov/bill-details/20251/HB2222)
+- [HB1607 - Assault Weapon Restrictions](https://lis.virginia.gov/bill-details/20251/HB1607)
+- [HB1608 - Firearm Industry Restrictions](https://lis.virginia.gov/bill-details/20251/HB1608)
+- [HB1876 - Campus Carry Restrictions](https://lis.virginia.gov/bill-details/20251/HB1876)
+- [HB2555 - Marijuana-related offenses; modification of sentence,sunset.](https://lis.virginia.gov/bill-details/20251/HB2555)
+
 ## February 11, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10210)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10211)
 
 - [SB1255 - Use of restraints on juveniles in court prohibited](https://lis.virginia.gov/bill-details/20251/SB1255)
