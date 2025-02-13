@@ -1,3 +1,15 @@
+## February 14, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10213)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10214)
+
+- [SB780 - Health insurance; coverage for contraceptive drugs and devices.](https://lis.virginia.gov/bill-details/20251/SB780)
+- [HB2034 - Tidal and nontidal wetlands; wetland restoration and creation policy task force, report.](https://lis.virginia.gov/bill-details/20251/HB2034)
+- [HB1607 - Assault Weapon Restrictions](https://lis.virginia.gov/bill-details/20251/HB1607)
+- [HB1608 - Firearm Industry Restrictions](https://lis.virginia.gov/bill-details/20251/HB1608)
+- [HB1876 - Campus Carry Restrictions](https://lis.virginia.gov/bill-details/20251/HB1876)
+- [HB2555 - Marijuana-related offenses; modification of sentence,sunset.](https://lis.virginia.gov/bill-details/20251/HB2555)
+- [HB2647 - State correctional facilities; use of restorative housing or isolated confinement; restrictions.](https://lis.virginia.gov/bill-details/20251/HB2647)
+- [HB2195 - Mold inspectors and remediators;](https://lis.virginia.gov/bill-details/20251/HB2195)
+- [HB2153 - Faith in Housing](https://lis.virginia.gov/bill-details/20251/HB2153)
+
 ## February 13, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10213)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10213)
 
 - [SB777 - Tire stewardship program](https://lis.virginia.gov/bill-details/20251/SB777)
