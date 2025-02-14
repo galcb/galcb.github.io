@@ -1,3 +1,14 @@
+## February 17, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10214)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10217)
+
+- [HB1601 - Data Centers; site assesment for a high energy use facility](https://lis.virginia.gov/bill-details/20251/HB1601)
+- [SB1016 - Food Pantries at Institutions of higher learning](https://lis.virginia.gov/bill-details/20251/SB1016)
+- [HB2195 - Mold inspectors and remediators;](https://lis.virginia.gov/bill-details/20251/HB2195)
+- [HB2153 - Faith in Housing](https://lis.virginia.gov/bill-details/20251/HB2153)
+- [HB1945 - Telehealth Services](https://lis.virginia.gov/bill-details/20251/HB1945)
+- [HB1957 - Safe Storage](https://lis.virginia.gov/bill-details/20251/HB1957)
+- [HB2196 - Restorative Justice](https://lis.virginia.gov/bill-details/20251/HB2196)
+- [HB2240 - Hunger Free Campus Food Pantry Program](https://lis.virginia.gov/bill-details/20251/HB2240)
+
 ## February 14, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10214)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10214)
 
 - [HB1601 - Data Centers; site assesment for a high energy use facility](https://lis.virginia.gov/bill-details/20251/HB1601)
