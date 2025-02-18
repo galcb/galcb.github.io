@@ -1,3 +1,17 @@
+## February 18, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10217)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10218)
+
+- [SB1016 - Food Pantries at Institutions of higher learning](https://lis.virginia.gov/bill-details/20251/SB1016)
+- [HB1601 - Data Centers; site assesment for a high energy use facility](https://lis.virginia.gov/bill-details/20251/HB1601)
+- [SB823 - Electric utilities; construction of renewable energy facilities](https://lis.virginia.gov/bill-details/20251/SB823)
+- [SB917 - Repeal on Ban on Collective Bargaining](https://lis.virginia.gov/bill-details/20251/SB917)
+- [HB1601 - Data Centers; site assesment for a high energy use facility](https://lis.virginia.gov/bill-details/20251/HB1601)
+- [HB1945 - Telehealth Services](https://lis.virginia.gov/bill-details/20251/HB1945)
+- [HB2153 - Faith in Housing](https://lis.virginia.gov/bill-details/20251/HB2153)
+- [HB1791 - Electric vehicle rural infrastructure program and fund created](https://lis.virginia.gov/bill-details/20251/HB1791)
+- [HB2240 - Hunger Free Campus Food Pantry Program](https://lis.virginia.gov/bill-details/20251/HB2240)
+- [HB2371 - Health insurance; coverage for contraceptive drugs and devices.](https://lis.virginia.gov/bill-details/20251/HB2371)
+- [HB2724 - ALPRs](https://lis.virginia.gov/bill-details/20251/HB2724)
+
 ## February 17, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10217)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10217)
 
 - [SB1016 - Food Pantries at Institutions of higher learning](https://lis.virginia.gov/bill-details/20251/SB1016)
