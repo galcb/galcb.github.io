@@ -1,3 +1,18 @@
+## February 20, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10219)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10220)
+
+- [SB1013 - Reduced penalty for a neurocognitive disorder or intellectual or developmental disability.](https://lis.virginia.gov/bill-details/20251/SB1013)
+- [HB1945 - Telehealth Services](https://lis.virginia.gov/bill-details/20251/HB1945)
+- [HB2153 - Faith in Housing](https://lis.virginia.gov/bill-details/20251/HB2153)
+- [HB1601 - Data Centers; site assesment for a high energy use facility](https://lis.virginia.gov/bill-details/20251/HB1601)
+- [SB1016 - Food Pantries at Institutions of higher learning](https://lis.virginia.gov/bill-details/20251/SB1016)
+- [SB1018 - Inform College Students of SNAP Eligibility](https://lis.virginia.gov/bill-details/20251/SB1018)
+- [SB1037 - Student access to telehealth services](https://lis.virginia.gov/bill-details/20251/SB1037)
+- [HB1601 - Data Centers; site assesment for a high energy use facility](https://lis.virginia.gov/bill-details/20251/HB1601)
+- [SB917 - Repeal on Ban on Collective Bargaining](https://lis.virginia.gov/bill-details/20251/SB917)
+- [SB1016 - Food Pantries at Institutions of higher learning](https://lis.virginia.gov/bill-details/20251/SB1016)
+- [HB1957 - Safe Storage](https://lis.virginia.gov/bill-details/20251/HB1957)
+- [HB2724 - ALPRs](https://lis.virginia.gov/bill-details/20251/HB2724)
+
 ## February 19, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10219)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10219)
 
 - [SB1013 - Reduced penalty for a neurocognitive disorder or intellectual or developmental disability.](https://lis.virginia.gov/bill-details/20251/SB1013)
