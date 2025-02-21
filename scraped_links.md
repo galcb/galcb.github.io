@@ -1,3 +1,12 @@
+## February 21, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10221)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10221)
+
+- [HB1601 - Data Centers; site assesment for a high energy use facility](https://lis.virginia.gov/bill-details/20251/HB1601)
+- [SB917 - Repeal on Ban on Collective Bargaining](https://lis.virginia.gov/bill-details/20251/SB917)
+- [SB1016 - Food Pantries at Institutions of higher learning](https://lis.virginia.gov/bill-details/20251/SB1016)
+- [HB1601 - Data Centers; site assesment for a high energy use facility](https://lis.virginia.gov/bill-details/20251/HB1601)
+- [SB917 - Repeal on Ban on Collective Bargaining](https://lis.virginia.gov/bill-details/20251/SB917)
+- [SB1016 - Food Pantries at Institutions of higher learning](https://lis.virginia.gov/bill-details/20251/SB1016)
+
 ## February 20, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10220)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10220)
 
 - [SB1018 - Inform College Students of SNAP Eligibility](https://lis.virginia.gov/bill-details/20251/SB1018)
