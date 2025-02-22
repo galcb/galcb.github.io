@@ -1,3 +1,10 @@
+## February 22, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10222)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10222)
+
+- [HB1601 - Data Centers; site assesment for a high energy use facility](https://lis.virginia.gov/bill-details/20251/HB1601)
+- [SB917 - Repeal on Ban on Collective Bargaining](https://lis.virginia.gov/bill-details/20251/SB917)
+- [HB1601 - Data Centers; site assesment for a high energy use facility](https://lis.virginia.gov/bill-details/20251/HB1601)
+- [SB917 - Repeal on Ban on Collective Bargaining](https://lis.virginia.gov/bill-details/20251/SB917)
+
 ## February 21, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10221)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10221)
 
 - [HB1601 - Data Centers; site assesment for a high energy use facility](https://lis.virginia.gov/bill-details/20251/HB1601)
