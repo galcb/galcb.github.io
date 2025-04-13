@@ -12,6 +12,9 @@
 
 ## April 2, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10402)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10402)
 
+
+## April 2, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10402)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10402)
+
 - [HB1607 - Assault Weapon Restrictions](https://lis.virginia.gov/bill-details/20251/HB1607)
 - [HB1608 - Firearm Industry Restrictions](https://lis.virginia.gov/bill-details/20251/HB1608)
 - [HB1791 - Electric vehicle rural infrastructure program and fund created](https://lis.virginia.gov/bill-details/20251/HB1791)
