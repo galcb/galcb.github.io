@@ -1,3 +1,6 @@
+## Tuesday, April 1, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/undefined/calendar/HC10402)- [Senate Sched.](https://lis.virginia.gov/session-details/undefined/calendar/SC10402)
+
+
 ## Tuesday, April 1, 2025 [House Sched.  ](https://lis.virginia.gov/session-details/20251/calendar/HC10402)- [Senate Sched.](https://lis.virginia.gov/session-details/20251/calendar/SC10402)
 
 - [HB1607 - Assault Weapon Restrictions](https://lis.virginia.gov/bill-details/20251/HB1607)
