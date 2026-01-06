@@ -62,7 +62,7 @@ def scrape_from_xpaths_and_filter():
     except TimeoutException:
         print("Error: Required elements not found within 10 seconds.")
         driver.quit() # Always quit the driver to free up memory
-        sys.exit(1)   # Exit with error code 1
+        sys.exit(0)   # Exit with error code 1
 
     # Find the "closest to top" <a> tag for each XPath
     top_links_file = "toplinks.txt"
