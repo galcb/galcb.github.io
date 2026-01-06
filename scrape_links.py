@@ -4,6 +4,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
+from selenium.common.exceptions import TimeoutException
 
 import time
 import os
@@ -37,7 +38,7 @@ def save_results_to_file(file_path, markdown_content):
 def scrape_from_xpaths_and_filter():
     # Set up Selenium WebDriver
     options = webdriver.ChromeOptions()
-    options.add_argument('--headless')  # Run in headless mode
+    options.add_argument('--headless')
     options.add_argument('--disable-gpu')
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
 
@@ -51,9 +52,17 @@ def scrape_from_xpaths_and_filter():
         "/html/body/div/div[1]/div/main/section/div/div/div/div[2]/div[2]//a",
     ]
 
-    WebDriverWait(driver, 10).until(
-        EC.presence_of_element_located((By.XPATH, xpaths[1]))
-    )
+    try:
+        # Wait up to 10 seconds for the specific element
+        WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.XPATH, xpaths[1]))
+        )
+        print("Elements found, proceeding with scrape...")
+        
+    except TimeoutException:
+        print("Error: Required elements not found within 10 seconds.")
+        driver.quit() # Always quit the driver to free up memory
+        sys.exit(1)   # Exit with error code 1
 
     # Find the "closest to top" <a> tag for each XPath
     top_links_file = "toplinks.txt"
