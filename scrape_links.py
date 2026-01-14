@@ -13,8 +13,22 @@ import sys
 
 #this was supposed to be a fucking quick fix because we were supposed to have 12 bills. I DO NOT WANT TO HEAR ABOUT IT.
 def name_bill(bn):
-    if bn =="SB780":
-        return f"{bn} - Health insurance; coverage for contraceptive drugs and devices."
+    if bn == "HB280":
+        return f"{bn} - Comprehensive children's health care coverage program."
+    if bn == "HB321":
+        return f"{bn} - Agricultural Workforce Mental Health and Suicide Prevention Program"
+    if bn == "HB457":
+        return f"{bn} - Land development; solar canopies in parking areas."
+    if bn == "HB323":
+        return f"{bn} - Data centers; Department of Energy to identify opportunities for use of waste heat"
+    if bn == "HB15":
+        return f"{bn} - Va. Residential Landlord and Tenant Act."
+    if bn == "HB79":
+        return f"{bn} - Virginia Residential Landlord and Tenant Act; duties of landlord, mold remediation, civil penalty."
+    if bn == "HB96":
+        return f"{bn} - School breakfast; availability at no cost to students."
+    if bn == "HB404":
+        return f"{bn} - Enslaved Ancestors College Access Scholarship and Memorial Program."
     return f"{bn} - Bill Name Unknown"
 
 def generate_markdown(results, date_header, houselink, senatelink):
@@ -96,7 +110,7 @@ def scrape_from_xpaths_and_filter():
     with open(top_links_file, 'w') as file:
         file.write(combined_text)
     
-    top_links = []
+    top_links = ["HB280", "HB321", "HB457", "HB323", "HB15", "HB79", "HB96", "HB404"]
     for xpath in xpaths:
         try:
             # Get the first <a> tag within the XPath
