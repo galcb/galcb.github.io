@@ -1,3 +1,6 @@
+## Friday, January 16, 2026 [House Sched.  ](HB280)- [Senate Sched.](HB321)
+
+
 ## Wednesday, January 14, 2026 [House Sched.  ](HB280)- [Senate Sched.](HB321)
 
 
