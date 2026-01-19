@@ -110,10 +110,11 @@ def scrape_from_xpaths_and_filter():
     with open(top_links_file, 'w') as file:
         file.write(combined_text)
     
-    top_links = ["HB280", "HB321", "HB457", "HB323", "HB15", "HB79", "HB96", "HB404"]
+    # CHANGE 1: Initialize top_links as an empty list (or with known URLs only)
+    top_links = [] 
+    
     for xpath in xpaths:
         try:
-            # Get the first <a> tag within the XPath
             element = driver.find_element(By.XPATH, xpath)
             href = element.get_attribute('href')
             if href:
@@ -121,13 +122,14 @@ def scrape_from_xpaths_and_filter():
         except Exception as e:
             print(f"Error finding element for XPath {xpath}: {e}")
 
-    # Array of words to match against <a> tag text
-    filter_words = []
+    # CHANGE 2: Move the bill numbers here
+    filter_words = ["HB280", "HB321", "HB457", "HB323", "HB15", "HB79", "HB96", "HB404"] 
 
     # Visit each top link and collect matching <a> tags
     results = []
     for link in top_links:
-        try:
+        # Now 'link' is guaranteed to be a URL from the scrape, not "HB280"
+        try: 
             driver.get(link)  # Visit the page
             time.sleep(8.0)
 
