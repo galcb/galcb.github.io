@@ -142,7 +142,7 @@ def scrape_from_xpaths_and_filter():
                 href = a_tag.get_attribute('href')  # Get the href attribute
 
                 # Check if the text starts with any word in filter_words and href is not empty
-                if any(text.startswith(word) for word in filter_words) and href:
+                if any(text.lower() == word.lower() for word in filter_words) and href:
                     # Build a scrollable link to the tag using the href and JS-based scrolling
                     # Ensure the href is relative to the page URL
                     element_id = a_tag.get_attribute('id') or a_tag.get_attribute('name')  # Get id or name if available
