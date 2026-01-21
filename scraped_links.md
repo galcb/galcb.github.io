@@ -1,3 +1,6 @@
+## Wednesday, January 21, 2026 [House Sched.  ](https://lis.virginia.gov/session-details/20261/calendar/HC10122)- [Senate Sched.](https://lis.virginia.gov/session-details/20261/calendar/SC10122)
+
+
 ## Tuesday, January 20, 2026 [House Sched.  ](https://lis.virginia.gov/session-details/20261/calendar/HC10121)- [Senate Sched.](https://lis.virginia.gov/session-details/20261/calendar/SC10121)
 
 
