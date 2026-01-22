@@ -1,3 +1,7 @@
+## Friday, January 23, 2026 [House Sched.  ](https://lis.virginia.gov/session-details/20261/calendar/HC10123)- [Senate Sched.](https://lis.virginia.gov/session-details/20261/calendar/SC10123)
+
+- [HB96 - School breakfast; availability at no cost to students.](https://lis.virginia.gov/bill-details/20261/HB96)
+
 ## Wednesday, January 21, 2026 [House Sched.  ](https://lis.virginia.gov/session-details/20261/calendar/HC10122)- [Senate Sched.](https://lis.virginia.gov/session-details/20261/calendar/SC10122)
 
 
