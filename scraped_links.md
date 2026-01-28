@@ -1,3 +1,7 @@
+## Wednesday, January 28, 2026 [House Sched.  ](https://lis.virginia.gov/session-details/20261/calendar/HC10129)- [Senate Sched.](https://lis.virginia.gov/session-details/20261/calendar/SC10129)
+
+- [HB15 - Va. Residential Landlord and Tenant Act.](https://lis.virginia.gov/bill-details/20261/HB15)
+
 ## Tuesday, January 27, 2026 [House Sched.  ](https://lis.virginia.gov/session-details/20261/calendar/HC10128)- [Senate Sched.](https://lis.virginia.gov/session-details/20261/calendar/SC10128)
 
 
