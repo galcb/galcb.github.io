@@ -1,3 +1,8 @@
+## Tuesday, February 3, 2026 [House Sched.  ](https://lis.virginia.gov/session-details/20261/calendar/HC10204)- [Senate Sched.](https://lis.virginia.gov/session-details/20261/calendar/SC10204)
+
+- [HB323 - Data centers; Department of Energy to identify opportunities for use of waste heat](https://lis.virginia.gov/bill-details/20261/HB323)
+- [HB15 - Va. Residential Landlord and Tenant Act.](https://lis.virginia.gov/bill-details/20261/HB15)
+
 ## Monday, February 2, 2026 [House Sched.  ](https://lis.virginia.gov/session-details/20261/calendar/HC10203)- [Senate Sched.](https://lis.virginia.gov/session-details/20261/calendar/SC10203)
 
 - [HB323 - Data centers; Department of Energy to identify opportunities for use of waste heat](https://lis.virginia.gov/bill-details/20261/HB323)
