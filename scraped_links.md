@@ -1,3 +1,6 @@
+## Monday, February 9, 2026 [House Sched.  ](https://lis.virginia.gov/session-details/20261/calendar/HC10210)- [Senate Sched.](https://lis.virginia.gov/session-details/20261/calendar/SC10210)
+
+
 ## Sunday, February 8, 2026 [House Sched.  ](https://lis.virginia.gov/session-details/20261/calendar/HC10209)- [Senate Sched.](https://lis.virginia.gov/session-details/20261/calendar/SC10209)
 
 
