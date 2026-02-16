@@ -1,3 +1,7 @@
+## Monday, February 16, 2026 [House Sched.  ](https://lis.virginia.gov/session-details/20261/calendar/HC10216)- [Senate Sched.](https://lis.virginia.gov/session-details/20261/calendar/SC10216)
+
+- [HB404 - Enslaved Ancestors College Access Scholarship and Memorial Program.](https://lis.virginia.gov/bill-details/20261/HB404)
+
 ## Monday, February 16, 2026 [House Sched.  ](https://lis.virginia.gov/session-details/20261/calendar/HC10215)- [Senate Sched.](https://lis.virginia.gov/session-details/20261/calendar/SC10216)
 
 
