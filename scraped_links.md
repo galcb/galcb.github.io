@@ -1,3 +1,7 @@
+## Wednesday, March 4, 2026 [House Sched.  ](https://lis.virginia.gov/session-details/20261/calendar/HC10305)- [Senate Sched.](https://lis.virginia.gov/session-details/20261/calendar/SC10305)
+
+- [HB323 - Data centers; Department of Energy to identify opportunities for use of waste heat](https://lis.virginia.gov/bill-details/20261/HB323)
+
 ## Tuesday, March 3, 2026 [House Sched.  ](https://lis.virginia.gov/session-details/20261/calendar/HC10304)- [Senate Sched.](https://lis.virginia.gov/session-details/20261/calendar/SC10304)
 
 - [HB404 - Enslaved Ancestors College Access Scholarship and Memorial Program.](https://lis.virginia.gov/bill-details/20261/HB404)
