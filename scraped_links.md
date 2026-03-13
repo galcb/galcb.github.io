@@ -1,3 +1,6 @@
+## Friday, March 13, 2026 [House Sched.  ](https://lis.virginia.gov/session-details/20261/calendar/HC10313)- [Senate Sched.](https://lis.virginia.gov/session-details/20261/calendar/SC10313)
+
+
 ## Thursday, March 12, 2026 [House Sched.  ](https://lis.virginia.gov/session-details/20261/calendar/HC10312)- [Senate Sched.](https://lis.virginia.gov/session-details/20261/calendar/SC10312)
 
 
