@@ -1,3 +1,6 @@
+## Tuesday, April 21, 2026 [House Sched.  ](https://lis.virginia.gov/session-details/20261/calendar/HC10423)- [Senate Sched.](https://lis.virginia.gov/session-details/20261/calendar/SC10422)
+
+
 ## Tuesday, April 21, 2026 [House Sched.  ](https://lis.virginia.gov/session-details/20261/calendar/HC10422)- [Senate Sched.](https://lis.virginia.gov/session-details/20261/calendar/SC10422)
 
 
